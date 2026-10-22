@@ -11,9 +11,9 @@ Welcome to our repository! The content of this repository is the summary of cour
 
 ## 涵盖课程
 
-- CPT102 - Computer Systems 计算机系统
-- CPT103 - Introduction to Databases 数据库导论
-- CPT107 - Discrete Mathematics and Statistics 离散数学与统计
-- CPT111 - Java Programming Java 编程
-- SAT101 - AI Application Design 人工智能应用设计
+- CSI101 - Computer Systems 计算机系统
+- SOE101 - Introduction to Databases 数据库导论
+- ADS102 - Discrete Mathematics and Statistics 离散数学与统计
+- SOE104 - Java Programming Java 编程
+- ISA104 - AI Application Design 人工智能应用设计
 - Extra - 您可以存放任何您觉得有帮助或者有意思的内容
